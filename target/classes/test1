@@ -1,0 +1,231 @@
+
+Time 0
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 0:  is closed
+Queue_1 at time 0:  is closed
+
+Time 1
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_1 at time 1:  is closed
+Queue_2 at time 1:  is closed
+
+Time 2
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 2:  is closed
+Queue_1 at time 2:  is closed
+
+Time 3
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 3:  is closed
+Queue_1 at time 3:  is closed
+
+Time 4
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 4:  is closed
+Queue_1 at time 4:  is closed
+
+Time 5
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 5:  is closed
+Queue_1 at time 5:  is closed
+
+Time 6
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 6:  is closed
+Queue_1 at time 6:  is closed
+
+Time 7
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 7:  is closed
+Queue_1 at time 7:  is closed
+
+Time 8
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 8:  is closed
+Queue_1 at time 8:  is closed
+
+Time 9
+Waiting clients : [(4, 10, 18) , (1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 9:  is closed
+Queue_1 at time 9:  is closed
+
+Time 10
+Waiting clients : [(1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_1 at time 10: [(4, 10, 18) ]
+Queue_2 at time 10:  is closed
+
+Time 11
+Waiting clients : [(1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 11:  is closed
+Queue_1 at time 11: [(4, 10, 17) ]
+
+Time 12
+Waiting clients : [(1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_1 at time 12: [(4, 10, 16) ]
+Queue_2 at time 12:  is closed
+
+Time 13
+Waiting clients : [(1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 13:  is closed
+Queue_1 at time 13: [(4, 10, 15) ]
+
+Time 14
+Waiting clients : [(1, 15, 13) , (2, 15, 2) , (3, 18, 17) ]
+Queue_2 at time 14:  is closed
+Queue_1 at time 14: [(4, 10, 14) ]
+
+Time 15
+Waiting clients : [(3, 18, 17) ]
+Queue_2 at time 15: [(1, 15, 13) ]
+Queue_1 at time 15: [(4, 10, 13) , (2, 15, 2) ]
+
+Time 16
+Waiting clients : [(3, 18, 17) ]
+Queue_2 at time 16: [(1, 15, 12) ]
+Queue_1 at time 16: [(4, 10, 12) , (2, 15, 2) ]
+
+Time 17
+Waiting clients : [(3, 18, 17) ]
+Queue_2 at time 17: [(1, 15, 11) ]
+Queue_1 at time 17: [(4, 10, 11) , (2, 15, 2) ]
+
+Time 18
+There are no clients in the waiting queue
+Queue_2 at time 18: [(1, 15, 10) , (3, 18, 17) ]
+Queue_1 at time 18: [(4, 10, 10) , (2, 15, 2) ]
+
+Time 19
+There are no clients in the waiting queue
+Queue_1 at time 19: [(4, 10, 9) , (2, 15, 2) ]
+Queue_2 at time 19: [(1, 15, 9) , (3, 18, 17) ]
+
+Time 20
+There are no clients in the waiting queue
+Queue_2 at time 20: [(1, 15, 8) , (3, 18, 17) ]
+Queue_1 at time 20: [(4, 10, 8) , (2, 15, 2) ]
+
+Time 21
+There are no clients in the waiting queue
+Queue_2 at time 21: [(1, 15, 7) , (3, 18, 17) ]
+Queue_1 at time 21: [(4, 10, 7) , (2, 15, 2) ]
+
+Time 22
+There are no clients in the waiting queue
+Queue_2 at time 22: [(1, 15, 6) , (3, 18, 17) ]
+Queue_1 at time 22: [(4, 10, 6) , (2, 15, 2) ]
+
+Time 23
+There are no clients in the waiting queue
+Queue_2 at time 23: [(1, 15, 5) , (3, 18, 17) ]
+Queue_1 at time 23: [(4, 10, 5) , (2, 15, 2) ]
+
+Time 24
+There are no clients in the waiting queue
+Queue_2 at time 24: [(1, 15, 4) , (3, 18, 17) ]
+Queue_1 at time 24: [(4, 10, 4) , (2, 15, 2) ]
+
+Time 25
+There are no clients in the waiting queue
+Queue_2 at time 25: [(1, 15, 3) , (3, 18, 17) ]
+Queue_1 at time 25: [(4, 10, 3) , (2, 15, 2) ]
+
+Time 26
+There are no clients in the waiting queue
+Queue_2 at time 26: [(1, 15, 2) , (3, 18, 17) ]
+Queue_1 at time 26: [(4, 10, 2) , (2, 15, 2) ]
+
+Time 27
+There are no clients in the waiting queue
+Queue_1 at time 27: [(4, 10, 1) , (2, 15, 2) ]
+Queue_2 at time 27: [(1, 15, 1) , (3, 18, 17) ]
+
+Time 28
+There are no clients in the waiting queue
+Queue_2 at time 28: [(3, 18, 17) ]
+Queue_1 at time 28: [(2, 15, 2) ]
+
+Time 29
+There are no clients in the waiting queue
+Queue_1 at time 29: [(2, 15, 1) ]
+Queue_2 at time 29: [(3, 18, 16) ]
+
+Time 30
+There are no clients in the waiting queue
+Queue_2 at time 30: [(3, 18, 15) ]
+Queue_1 at time 30:  is closed
+
+Time 31
+There are no clients in the waiting queue
+Queue_1 at time 31:  is closed
+Queue_2 at time 31: [(3, 18, 14) ]
+
+Time 32
+There are no clients in the waiting queue
+Queue_2 at time 32: [(3, 18, 13) ]
+Queue_1 at time 32:  is closed
+
+Time 33
+There are no clients in the waiting queue
+Queue_2 at time 33: [(3, 18, 12) ]
+Queue_1 at time 33:  is closed
+
+Time 34
+There are no clients in the waiting queue
+Queue_1 at time 34:  is closed
+Queue_2 at time 34: [(3, 18, 11) ]
+
+Time 35
+There are no clients in the waiting queue
+Queue_2 at time 35: [(3, 18, 10) ]
+Queue_1 at time 35:  is closed
+
+Time 36
+There are no clients in the waiting queue
+Queue_2 at time 36: [(3, 18, 9) ]
+Queue_1 at time 36:  is closed
+
+Time 37
+There are no clients in the waiting queue
+Queue_2 at time 37: [(3, 18, 8) ]
+Queue_1 at time 37:  is closed
+
+Time 38
+There are no clients in the waiting queue
+Queue_2 at time 38: [(3, 18, 7) ]
+Queue_1 at time 38:  is closed
+
+Time 39
+There are no clients in the waiting queue
+Queue_1 at time 39:  is closed
+Queue_2 at time 39: [(3, 18, 6) ]
+
+Time 40
+There are no clients in the waiting queue
+Queue_1 at time 40:  is closed
+Queue_2 at time 40: [(3, 18, 5) ]
+
+Time 41
+There are no clients in the waiting queue
+Queue_1 at time 41:  is closed
+Queue_2 at time 41: [(3, 18, 4) ]
+
+Time 42
+There are no clients in the waiting queue
+Queue_1 at time 42:  is closed
+Queue_2 at time 42: [(3, 18, 3) ]
+
+Time 43
+There are no clients in the waiting queue
+Queue_1 at time 43:  is closed
+Queue_2 at time 43: [(3, 18, 2) ]
+
+Time 44
+There are no clients in the waiting queue
+Queue_1 at time 44:  is closed
+Queue_2 at time 44: [(3, 18, 1) ]
+
+Time 45
+FINISH! There are no more clients in the waiting queue or at the service queues
+Average waiting time: 18.25s
+Average service time: 12.5s
+First peak time: [18, 27]

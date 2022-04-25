@@ -1,0 +1,117 @@
+
+Time 0
+Waiting clients : [(1, 2, 6) , (2, 2, 6) , (3, 2, 7) , (4, 2, 7) , (5, 2, 9) , (6, 2, 5) , (7, 2, 7) , (8, 2, 7) , (9, 2, 5) , (10, 2, 6) ]
+Queue_2 at time 0:  is closed
+Queue_3 at time 0:  is closed
+Queue_1 at time 0:  is closed
+
+Time 1
+Waiting clients : [(1, 2, 6) , (2, 2, 6) , (3, 2, 7) , (4, 2, 7) , (5, 2, 9) , (6, 2, 5) , (7, 2, 7) , (8, 2, 7) , (9, 2, 5) , (10, 2, 6) ]
+Queue_3 at time 1:  is closed
+Queue_2 at time 1:  is closed
+Queue_1 at time 1:  is closed
+
+Time 2
+There are no clients in the waiting queue
+Queue_2 at time 2: [(2, 2, 6) , (5, 2, 9) , (9, 2, 5) ]
+Queue_1 at time 2: [(1, 2, 6) , (4, 2, 7) , (8, 2, 7) ]
+Queue_3 at time 2: [(3, 2, 7) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 3
+There are no clients in the waiting queue
+Queue_1 at time 3: [(1, 2, 5) , (4, 2, 7) , (8, 2, 7) ]
+Queue_2 at time 3: [(2, 2, 5) , (5, 2, 9) , (9, 2, 5) ]
+Queue_3 at time 3: [(3, 2, 6) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 4
+There are no clients in the waiting queue
+Queue_1 at time 4: [(1, 2, 4) , (4, 2, 7) , (8, 2, 7) ]
+Queue_2 at time 4: [(2, 2, 4) , (5, 2, 9) , (9, 2, 5) ]
+Queue_3 at time 4: [(3, 2, 5) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 5
+There are no clients in the waiting queue
+Queue_1 at time 5: [(1, 2, 3) , (4, 2, 7) , (8, 2, 7) ]
+Queue_2 at time 5: [(2, 2, 3) , (5, 2, 9) , (9, 2, 5) ]
+Queue_3 at time 5: [(3, 2, 4) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 6
+There are no clients in the waiting queue
+Queue_1 at time 6: [(1, 2, 2) , (4, 2, 7) , (8, 2, 7) ]
+Queue_2 at time 6: [(2, 2, 2) , (5, 2, 9) , (9, 2, 5) ]
+Queue_3 at time 6: [(3, 2, 3) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 7
+There are no clients in the waiting queue
+Queue_2 at time 7: [(2, 2, 1) , (5, 2, 9) , (9, 2, 5) ]
+Queue_1 at time 7: [(1, 2, 1) , (4, 2, 7) , (8, 2, 7) ]
+Queue_3 at time 7: [(3, 2, 2) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 8
+There are no clients in the waiting queue
+Queue_1 at time 8: [(4, 2, 7) , (8, 2, 7) ]
+Queue_2 at time 8: [(5, 2, 9) , (9, 2, 5) ]
+Queue_3 at time 8: [(3, 2, 1) , (6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 9
+There are no clients in the waiting queue
+Queue_2 at time 9: [(5, 2, 8) , (9, 2, 5) ]
+Queue_1 at time 9: [(4, 2, 6) , (8, 2, 7) ]
+Queue_3 at time 9: [(6, 2, 5) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 10
+There are no clients in the waiting queue
+Queue_1 at time 10: [(4, 2, 5) , (8, 2, 7) ]
+Queue_2 at time 10: [(5, 2, 7) , (9, 2, 5) ]
+Queue_3 at time 10: [(6, 2, 4) , (7, 2, 7) , (10, 2, 6) ]
+
+Time 11
+There are no clients in the waiting queue
+Queue_3 at time 11: [(6, 2, 3) , (7, 2, 7) , (10, 2, 6) ]
+Queue_1 at time 11: [(4, 2, 4) , (8, 2, 7) ]
+Queue_2 at time 11: [(5, 2, 6) , (9, 2, 5) ]
+
+Time 12
+There are no clients in the waiting queue
+Queue_2 at time 12: [(5, 2, 5) , (9, 2, 5) ]
+Queue_3 at time 12: [(6, 2, 2) , (7, 2, 7) , (10, 2, 6) ]
+Queue_1 at time 12: [(4, 2, 3) , (8, 2, 7) ]
+
+Time 13
+There are no clients in the waiting queue
+Queue_1 at time 13: [(4, 2, 2) , (8, 2, 7) ]
+Queue_3 at time 13: [(6, 2, 1) , (7, 2, 7) , (10, 2, 6) ]
+Queue_2 at time 13: [(5, 2, 4) , (9, 2, 5) ]
+
+Time 14
+There are no clients in the waiting queue
+Queue_3 at time 14: [(7, 2, 7) , (10, 2, 6) ]
+Queue_1 at time 14: [(4, 2, 1) , (8, 2, 7) ]
+Queue_2 at time 14: [(5, 2, 3) , (9, 2, 5) ]
+
+Time 15
+There are no clients in the waiting queue
+Queue_1 at time 15: [(8, 2, 7) ]
+Queue_2 at time 15: [(5, 2, 2) , (9, 2, 5) ]
+Queue_3 at time 15: [(7, 2, 6) , (10, 2, 6) ]
+
+Time 16
+There are no clients in the waiting queue
+Queue_1 at time 16: [(8, 2, 6) ]
+Queue_2 at time 16: [(5, 2, 1) , (9, 2, 5) ]
+Queue_3 at time 16: [(7, 2, 5) , (10, 2, 6) ]
+
+Time 17
+There are no clients in the waiting queue
+Queue_1 at time 17: [(8, 2, 5) ]
+Queue_3 at time 17: [(7, 2, 4) , (10, 2, 6) ]
+Queue_2 at time 17: [(9, 2, 5) ]
+
+Time 18
+There are no clients in the waiting queue
+Queue_3 at time 18: [(7, 2, 3) , (10, 2, 6) ]
+Queue_1 at time 18: [(8, 2, 4) ]
+Queue_2 at time 18: [(9, 2, 4) ]
+
+Time 19
+There are no clients in the waiting queue

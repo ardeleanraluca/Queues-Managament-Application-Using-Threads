@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="564.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="tema2.Controller">
+    <children>
+      <Group layoutX="28.0" layoutY="63.0">
+         <children>
+              <TextField fx:id="minArrivingTime" layoutX="188.0" promptText="Min Arriving Time" />
+              <TextField fx:id="maxArrivingTime" layoutX="188.0" layoutY="47.0" promptText="Max Arriving Time" />
+              <TextField fx:id="minProcessingTime" layoutX="370.0" promptText="Min Processing Time" />
+              <TextField fx:id="maxProcessingTime" layoutX="370.0" layoutY="47.0" promptText="Max Processing Time" />
+              <TextField fx:id="numberOfClients" layoutY="47.0" promptText="Number of Clients" />
+              <TextField fx:id="numberOfQueues" promptText="Number of Queues" />
+              <TextField fx:id="timeSimulation" layoutX="56.0" layoutY="113.0" promptText="Time limit simulation" />
+              <Button layoutX="278.0" layoutY="113.0" mnemonicParsing="false" onMouseClicked="#Start" prefHeight="25.0" prefWidth="149.0" text="Start Simulation" />
+         </children>
+      </Group>
+      <Label layoutX="197.0" prefHeight="47.0" prefWidth="204.0" text="QUEUES MANAGEMENT" textAlignment="CENTER">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+        <TextArea fx:id="rezultTextArea" editable="false" layoutX="6.0" layoutY="234.0" maxHeight="1.7976931348623157E308" maxWidth="-Infinity" prefHeight="329.0" prefWidth="585.0" promptText="Results!" wrapText="true" />
+    </children>
+</AnchorPane>
